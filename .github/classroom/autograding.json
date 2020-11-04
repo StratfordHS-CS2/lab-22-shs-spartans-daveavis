@@ -13,7 +13,7 @@
     {
       "name": "13",
       "setup": "",
-      "run": "python main/py",
+      "run": "python main.py",
       "input": "13",
       "output": "SHS Spartans\r\n1\r\n2\r\nSHS\r\nSpartans\r\n5\r\nSHS\r\n7\r\nSpartans\r\n9\r\n10\r\n11\r\nSHS Spartans\r\n13\r\n",
       "comparison": "included",
