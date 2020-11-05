@@ -15,7 +15,7 @@
       "setup": "",
       "run": "python main.py",
       "input": "13",
-      "output": "SHS Spartans\r\n1\r\n2\r\nSHS\r\nSpartans\r\n5\r\nSHS\r\n7\r\nSpartans\r\nSHS\r\n10\r\n11\r\nSHS Spartans\r\n13\r\n",
+      "output": "SHS Spartans\n1\n2\nSHS\nSpartans\n5\nSHS\n7\nSpartans\nSHS\n10\n11\nSHS Spartans\n13\n",
       "comparison": "included",
       "timeout": 2,
       "points": 50
